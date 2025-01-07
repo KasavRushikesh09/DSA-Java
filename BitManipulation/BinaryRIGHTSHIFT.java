@@ -5,4 +5,4 @@ public class BinaryRIGHTSHIFT{
     }
 }
 
-//(a<<b) = a * 2^b
+//(a>>b) = a / 2*b
