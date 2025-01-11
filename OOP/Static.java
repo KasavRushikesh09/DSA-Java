@@ -7,7 +7,7 @@ public class OOPs{
       System.out.println(s2.schoolName);
 
     }
-
+}
 class Student {
     String name;
     int roll;
@@ -20,5 +20,4 @@ class Student {
     String getName(){
         return this.name;
     }
-}
 }
