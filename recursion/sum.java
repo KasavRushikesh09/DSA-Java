@@ -14,3 +14,4 @@ public class sumofnaturalnumber{
             System.out.println(i);
     }
 }
+
